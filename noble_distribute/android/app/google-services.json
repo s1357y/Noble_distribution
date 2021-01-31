@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "163305039480",
+    "project_id": "noble-distribution",
+    "storage_bucket": "noble-distribution.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163305039480:android:5c12aec77b7e270d4eaf8d",
+        "android_client_info": {
+          "package_name": "com.example.noble_distribute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163305039480-ufjn00hh2su9hjjkierisa31lsdnf93u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Vj8dv0y69d8OmsQJvyAGN7xC5OZPQLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163305039480-ufjn00hh2su9hjjkierisa31lsdnf93u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
